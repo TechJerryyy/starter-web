@@ -8,3 +8,5 @@ as started above, the main purpose is to provide simple examples for git trainni
 this is simple web project. deployem,ent can be any web server or even local file system.
 ## end
 this is end.
+
+2014 Git.Demo
