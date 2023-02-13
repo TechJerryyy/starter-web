@@ -1,6 +1,6 @@
 # Starer Web Project
 this is simple web project.
-just add sample.
+just add sample, more changes added.
 ## Introduction
 this is to show different parts of the git repository and various commands using a web project.
 ## Purpose
