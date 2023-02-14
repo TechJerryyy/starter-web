@@ -13,4 +13,4 @@ please fork this repo & then issue pull requests for review.
 this is end.
 
 ### Copyright
-2014 Git.Demo
+2014 Git.Demo all rights reserved.
